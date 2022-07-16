@@ -1,0 +1,133 @@
+{
+    "domain": "wassersport24.net",
+    "hostname": "https://www.wassersport24.net",
+    "email": "wassersport24.net@surrealnetworks.io",
+    "organization": "wassersport24.net",
+    "logoText": "wassersport24.net",                                             
+    "title": "Bekleidung und Ausrüstung für Wassersport",
+    "subline": "Der Shop für Wassersportbekleidung- und Ausrüstung",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [        
+        ],                          
+    "winnerProducts": [],
+    "featuredCategories": [],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/wassersport24-net",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Wassersport",
+        "featureText": "<p class=\"mb-4\">Wassersport ist eine der beliebtesten Aktivitäten auf der ganzen Welt. Finde heraus, welche Art von Wassersport du als nächstes ausprobieren solltest und besorge dir passende Bekleidung und Ausrüstung!</p><p>Wassersport ist eine Aktivität, die schon seit der Antike von den Menschen ausgeübt wird.</p><p>Alle unsere Produkte sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
+        "index": {
+            "title": "Wassersportbekleidung und -ausrüstung | Shop",
+            "metaDescription": " Wir haben die beste Auswahl an Wassersportbekleidung und Wassersportausrüstung, die auf dem Markt erhältlich sind.",
+            "robots": "index, follow"
+        },
+        "shop": {
+            "title": "Alle Produkte im Überblick.",
+            "metaDescription": "Egal, ob du Schwimmbekleidung, Neoprenanzüge, Schwimmbrillen oder Surfbretter suchst, wir haben, was du brauchst.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken im Überblick",
+            "metaDescription": "Informiere dich hier über die besten Marken im Wassersportbereich von heute.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | wassersport24.net Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "noindex, follow",
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | wassersport24.net Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "categories": [{
+            "key": "wassersport",
+            "slug": "wassersport",
+            "name": "wassersport",
+            "seo": {
+                "title": "Wassersportbekleidung und Wassersportausrüstung günstig kaufen auf §DOMAIN",
+                "metaDescription": "Wassersportbekleidung und -ausrüstung - Mach dich bereit für Spaß in der Sonne, indem du diese hochwertigen Produkte in unserem Online-Shop auf wassersport24.net kaufst! Wir haben alles, was du für sommerliche Aktivitäten wie Surfen, Schwimmen, Bootfahren, Angeln usw. brauchst. Sieh dirunsere Auswahl an!",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | wassersport24.net Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im wassersport24.net Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "brands": [{
+                "key": "McKinley",
+                "name": "McKinley",
+                "seo": {
+                    "title": "Produkte von McKinley günstig kaufen",
+                    "metaDescription": "Alle Produkte von McKinley im Überblick. Produkte und Testsieger. Der Hersteller für Wassersport Produkte.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Aqua Sphere",
+                "name": "Aqua Sphere",
+                "seo": {
+                    "title": "Produkte von Aqua Sphere günstig kaufen",
+                    "metaDescription": "Alle Produkte von Aqua Sphere im Überblick. Produkte und Testsieger. Der Hersteller für Wassersport Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Hochwertiges Material",
+        "flexible Konstruktion",
+        "Komfort",
+        "Langlebigkeit",
+        "Extra Funktionen",
+        "Pflegbarkeit"
+    ],
+    "navigationLinks": [{
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Outdoor Hemden",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Outdoor-Hemden.de Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Hemden Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ]
+}
