@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/advanced-elements", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/advanced-elements-airvolution-kajak-advanced-elements-5637885585.jpg":"\u002Fassets\u002Fimages\u002Fadvanced-elements-airvolution-kajak-advanced-elements-5637885585.webp"}}],fetch:{},mutations:void 0});
