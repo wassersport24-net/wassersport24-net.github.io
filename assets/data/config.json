@@ -1,9 +1,9 @@
 {
     "domain": "wassersport24.net",
-    "hostname": "https://www.wassersport24.net",
+    "hostname": "https://wassersport24.net",
     "email": "wassersport24.net@surrealnetworks.io",
     "organization": "wassersport24.net",
-    "logoText": "wassersport24.net",                                             
+    "logoText": "wassersport24.net",
     "title": "Bekleidung und Ausrüstung für Wassersport",
     "subline": "Der Shop für Wassersportbekleidung- und Ausrüstung",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
@@ -13,8 +13,7 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [        
-        ],                          
+    "popularProducts": [],
     "winnerProducts": [],
     "featuredCategories": [],
     "socialMediaAccounts": [{
@@ -29,25 +28,25 @@
         "mainKeyword": "Wassersport",
         "featureText": "<p class=\"mb-4\">Wassersport ist eine der beliebtesten Aktivitäten auf der ganzen Welt. Finde heraus, welche Art von Wassersport du als nächstes ausprobieren solltest und besorge dir passende Bekleidung und Ausrüstung!</p><p>Wassersport ist eine Aktivität, die schon seit der Antike von den Menschen ausgeübt wird.</p><p>Alle unsere Produkte sind qualitativ hochwertig und werden auf folgende Kriterien geprüft:</p>",
         "index": {
-            "title": "Wassersportbekleidung und -ausrüstung | Shop",
-            "metaDescription": " Wir haben die beste Auswahl an Wassersportbekleidung und Wassersportausrüstung, die auf dem Markt erhältlich sind.",
+            "title": "Shop für Wassersportbekleidung- und Ausrüstung",
+            "metaDescription": "Wir haben die beste Auswahl an Wassersportbekleidung und Wassersportausrüstung, die auf dem Markt erhältlich sind, mit Best-Preis-Garantie. Produkte auf Lager.",
             "robots": "index, follow"
         },
         "shop": {
-            "title": "Alle Produkte im Überblick.",
-            "metaDescription": "Egal, ob du Schwimmbekleidung, Neoprenanzüge, Schwimmbrillen oder Surfbretter suchst, wir haben, was du brauchst.",
+            "title": "Shop für Wassersport Ausrüstung.",
+            "metaDescription": "Egal, ob du Schwimmbekleidung, Neoprenanzüge, Schwimmbrillen oder Surfbretter suchst, wir haben die besten Produkte für Wassersport auf dem Markt.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Alle Marken im Überblick",
-            "metaDescription": "Informiere dich hier über die besten Marken im Wassersportbereich von heute.",
+            "title": "Alle Hersteller für Wassersportausrüstung im Überblick",
+            "metaDescription": "$HERSTELLER ist ein Hersteller für Wassersportausrüstung. Wir bieten dir die besten Produkte für Wassersport auf dem Markt.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT online kaufen | wassersport24.net Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$PRODUKT online kaufen | Wassersport24.net Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER findest du auf Wassersport24.net zum top Preis. Vergleiche das Produkt $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -59,9 +58,9 @@
         }]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE | wassersport24.net Shop",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$KATEGORIE | Wassersport24.net Shop",
+        "defaultMetaDescription": "Alle Produkte aus der Kategorie $KATEGORIE im im Überblick. Produkte und Testsieger zu top Preisen findest du nur bei uns in unserem Shop.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "wassersport",
             "slug": "wassersport",
@@ -74,9 +73,9 @@
         }]
     },
     "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER | wassersport24.net Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im wassersport24.net Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "Wassersport Ausrüstung von $HERSTELLER",
+        "defaultMetaDescription": "Komplette Wassersportausrüstung von $HERSTELLER findest du in unserem Shop Wassersport24.net. Produkte und Testsieger zu top Preisen. Sofort lieferbar.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "McKinley",
                 "name": "McKinley",
