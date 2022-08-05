@@ -13,8 +13,16 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
+     "popularProducts": [
+        "5637837051",
+        "5637930810",
+        "5637223722"
+    ],
+    "winnerProducts": [
+        "5637837051",
+        "5637930810",
+        "5637838747"
+    ],
     "featuredCategories": [],
     "socialMediaAccounts": [{
         "name": "Twitter",
