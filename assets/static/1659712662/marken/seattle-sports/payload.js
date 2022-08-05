@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/seattle-sports", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/seattle-sports-lash-mates-super-suk-seattle-sports-5637223441.jpg":"\u002Fassets\u002Fimages\u002Fseattle-sports-lash-mates-super-suk-seattle-sports-5637223441.webp"}}],fetch:{},mutations:void 0});

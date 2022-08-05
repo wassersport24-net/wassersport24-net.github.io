@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/relags", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/relags-beach-box-relags-5637239411.jpg":"\u002Fassets\u002Fimages\u002Frelags-beach-box-relags-5637239411.webp"}}],fetch:{},mutations:void 0});

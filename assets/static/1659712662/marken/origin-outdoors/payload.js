@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/origin-outdoors", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/origin-outdoors-ratschengurt-25-mm5-m-spanngurt-origin-outdoors-5637940365.jpg":"\u002Fassets\u002Fimages\u002Forigin-outdoors-ratschengurt-25-mm5-m-spanngurt-origin-outdoors-5637940365.webp"}}],fetch:{},mutations:void 0});

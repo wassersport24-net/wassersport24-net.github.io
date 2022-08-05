@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/paddelshirts", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/marinepool-chile-neo-neoprenbekleidung-marinepool-5637301920.jpg":"\u002Fassets\u002Fimages\u002Fmarinepool-chile-neo-neoprenbekleidung-marinepool-5637301920.webp"}}],fetch:{},mutations:void 0});

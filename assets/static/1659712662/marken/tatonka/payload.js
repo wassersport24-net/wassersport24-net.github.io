@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/tatonka", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tatonka-silicone-band-m-6pcs-tatonka-5637829189.jpg":"\u002Fassets\u002Fimages\u002Ftatonka-silicone-band-m-6pcs-tatonka-5637829189.webp"}}],fetch:{},mutations:void 0});

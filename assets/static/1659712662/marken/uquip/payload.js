@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/uquip", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/uquip-josy-kissen-uquip-5637196185.jpg":"\u002Fassets\u002Fimages\u002Fuquip-josy-kissen-uquip-5637196185.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/corro-film", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/corro-film-corrofilm-korrosionsschutz-fuer-jedes-alugestaenge-spruehdose-corro-film-5637251126.jpg":"\u002Fassets\u002Fimages\u002Fcorro-film-corrofilm-korrosionsschutz-fuer-jedes-alugestaenge-spruehdose-corro-film-5637251126.webp"}}],fetch:{},mutations:void 0});

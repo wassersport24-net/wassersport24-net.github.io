@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/alpine", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/alpine-ohrstoepsel-schwimmen-ohrstoepsel-alpine-5637882579.jpg":"\u002Fassets\u002Fimages\u002Falpine-ohrstoepsel-schwimmen-ohrstoepsel-alpine-5637882579.webp"}}],fetch:{},mutations:void 0});

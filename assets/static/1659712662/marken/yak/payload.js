@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/yak", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/yak-kallista-50n-schwimmweste-yak-5637511858.jpg":"\u002Fassets\u002Fimages\u002Fyak-kallista-50n-schwimmweste-yak-5637511858.webp"}}],fetch:{},mutations:void 0});
