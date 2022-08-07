@@ -21,6 +21,9 @@
  */
 
 
+/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
+
+
 /*!
  * vue-client-only v0.0.0-semantic-release
  * (c) 2021-present egoist <0x142857@gmail.com>
@@ -32,6 +35,3 @@
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
-
-
-/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
