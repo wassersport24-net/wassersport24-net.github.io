@@ -14,7 +14,7 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-     "popularProducts": [
+    "popularProducts": [
         "5637837051",
         "5637930810",
         "5637223722"
@@ -39,7 +39,60 @@
         "index": {
             "title": "Shop für Wassersportbekleidung- und Ausrüstung",
             "metaDescription": "Wir haben die beste Auswahl an Wassersportbekleidung und Wassersportausrüstung, die auf dem Markt erhältlich sind, mit Best-Preis-Garantie. Produkte auf Lager.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [{
+                    "title": "Intro zu Wassersport24.net",
+                    "text": "Willkommen bei Wassersport24.net, Ihrem Online-Shop für alles rund um Wassersport. Hier finden Sie eine große Auswahl an Produkten für alle Arten von Wassersportaktivitäten. Ob Sie eine neue Schnorchelausrüstung benötigen, eine neue Paddelweste oder ein neues Kajak - bei uns werden Sie fündig."
+                },
+                {
+                    "title": "Wasserdicht verpackt",
+                    "text": "Bei Wassersport24.net finden Sie eine große Auswahl an <a href=\"/kategorie/wasserdicht-verpackt/\" title=\"wasserdichte Verpackung\">wasserdichten Verpackungen</a> für alle Ihre Ausrüstungsgegenstände. Schützen Sie Ihre wertvollen Gegenstände vor Nässe und Feuchtigkeit, während Sie auf dem Wasser unterwegs sind. Unsere wasserdichten Verpackungen sind robust und langlebig und bieten maximale Sicherheit für Ihre Ausrüstung."
+                },
+                {
+                    "title": "Schwimmwesten",
+                    "text": "Wassersport24.net bietet eine große Auswahl an <a href=\"/kategorie/schwimmwesten/\" title=\"Schwimmwesten\">Schwimmwesten</a> für alle Bedürfnisse. Ob Sie eine Paddelweste für Ihr SUP-Board benötigen oder eine Rettungsweste für den Notfall - wir haben alles, was Sie brauchen. Unsere Schwimmwesten sind bequem und sicher und bieten Ihnen die nötige Bewegungsfreiheit, damit Sie sich auf Ihre Wassersportaktivitäten konzentrieren können."
+                },
+                {
+                    "title": "Schnorchelausrüstung",
+                    "text": "Entdecken Sie die Unterwasserwelt mit der richtigen <a href=\"/kategorie/schnorchelausruestung/\" title=\"Schnorchelausrüstung\">Schnorchelausrüstung</a> von Wassersport24.net. Wir haben alles, was Sie für einen erfolgreichen Schnorchelausflug benötigen, von Schnorchelmasken und Schnorchelflossen bis hin zu Taucherbrillen und Trockentauchbekleidung. Unsere Produkte sind von hoher Qualität und bieten Ihnen ein unvergessliches Schnorcherlebnis."
+                },
+                {
+                    "title": "Paddel",
+                    "text": "Wassersport24.net hat eine große Auswahl an <a href=\"/kategorie/paddel/\" title=\"Paddel\">Paddeln</a> für alle Bedürfnisse. Ob Sie ein SUP-Paddel, ein Doppelpaddel oder ein Stechpaddel benötigen, wir haben alles, was Sie brauchen. Unsere Paddel sind robust, leicht und langlebig und bieten Ihnen die nötige Kontrolle und Effizienz, damit Sie Ihr SUP-Board oder Kajak sicher und bequem steuern können."
+                },
+                {
+                    "title": "Wassersportzubehör",
+                    "text": "Erweitern Sie Ihre Wassersportausrüstung mit dem passenden Zubehör von Wassersport24.net. Wir haben alles, was Sie brauchen, von Trockentaschen und Regenhüllen bis hin zu Pumpe und Reparatursets. Unsere Produkte sind von hoher Qualität und bieten Ihnen die nötige Funktionalität und Schutz für Ihre Ausrüstung."
+                },
+                {
+                    "title": "Kajaks",
+                    "text": "Erleben Sie die Natur aus einer neuen Perspektive mit einem Kajak von Wassersport24.net. Wir haben eine große Auswahl an <a href=\"/kategorie/kajaks/\" title=\"Kajaks\">Kajaks</a> für alle Bedürfnisse, von solo bis hin zu Familienkajaks. Unsere Kajaks sind stabil, bequem und langlebig und bieten Ihnen ein unvergessliches Paddelerlebnis auf dem Wasser."
+                },
+                {
+                    "title": "Wassersportbekleidung",
+                    "text": "Schützen Sie sich vor den Elementen mit der richtigen <a href=\"/kategorie/wassersportbekleidung/\" title=\"Wassersportbekleidung\">Wassersportbekleidung</a> von Wassersport24.net. Wir haben alles, was Sie brauchen, von Wasserschuhen und Paddelhosen bis hin zu Paddeljacken und Paddelshirts. Unsere Bekleidung ist bequem, atmungsaktiv und wasserdicht und bietet Ihnen den nötigen Schutz und Komfort bei Ihren Wassersportaktivitäten."
+                },
+                {
+                    "title": "Kanadier",
+                    "text": "Erkunden Sie die Natur mit einem <a href=\"/kategorie/kanadier/\" title=\"Kanadier\">Kanadier</a> von Wassersport24.net. Wir haben eine große Auswahl an Kanadiern für alle Bedürfnisse, von solo bis hin zu Familienkanadiern. Unsere Kanadier sind stabil, bequem und langlebig und bieten Ihnen ein unvergessliches Paddelerlebnis auf dem Wasser."
+                },
+                {
+                    "title": "Bootstransport",
+                    "text": "Transportieren Sie Ihre Boote sicher und bequem mit dem passenden <a href=\"/kategorie/bootstransport/\" title=\"Bootstransport\">Bootstransportzubehör</a> von Wassersport24.net. Wir haben alles, was Sie brauchen, von Bootstrailern und Dolly bis hin zu Bootshaken und Tragegurten. Unsere Produkte sind robust und langlebig und bieten Ihnen die nötige Sicherheit und Funktionalität beim Transport Ihrer Boote."
+                },
+                {
+                    "title": "Schlauchboote",
+                    "text": "Entdecken Sie die Welt auf dem Wasser mit einem Schlauchboot von Wassersport24.net. Wir haben eine große Auswahl an <a href=\"/kategorie/schlauchboote/\" title=\"Schlauchboote\">Schlauchbooten</a> für alle Bedürfnisse, von aufblasbaren Kajaks bis hin zu motorisierten Schlauchbooten. Unsere Schlauchboote sind robust, stabil und langlebig und bieten Ihnen ein unvergessliches Erlebnis auf dem Wasser."
+                },
+                {
+                    "title": "SUP Boards",
+                    "text": "Stehen Sie auf dem Wasser und erleben Sie ein neues Gefühl der Freiheit mit einem SUP Board von Wassersport24.net. Wir haben eine große Auswahl an <a href=\"/kategorie/sup-boards/\" title=\"SUP Boards\">SUP Boards</a> für alle Bedürfnisse, von aufblasbaren SUP Boards bis hin zu Hardboards. Unsere SUP Boards sind leicht, stabil und langlebig und bieten Ihnen die nötige Stabilität und Kontrolle, damit Sie sich auf Ihre Balance konzentrieren können."
+                },
+                {
+                    "title": "Ihr Wasser-Sport24 Team",
+                    "text": "Vielen Dank, dass Sie Wassersport24.net besucht haben. Wir hoffen, dass Sie das richtige Produkt für Ihre Wassersportaktivitäten gefunden haben. Wenn Sie Fragen oder Anregungen haben, zögern Sie nicht, uns zu kontaktieren. Wir stehen Ihnen gerne zur Verfügung und wünschen Ihnen viel Spaß auf dem Wasser!"
+                }
+            ]
         },
         "shop": {
             "title": "Shop für Wassersport Ausrüstung.",
