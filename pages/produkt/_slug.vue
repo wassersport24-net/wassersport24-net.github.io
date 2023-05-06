@@ -12,15 +12,13 @@
       <div class="container">
         <div class="row g-5">
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
-            <h2 class="mb-4">{{ product.name }}</h2>
+            <h2 class="mb-4" v-if="!seoData">{{ product.name }}</h2>
             <div v-if="seoData && seoData.seo && seoData.seo.texts">
               <div v-for="(text, index) in seoData.seo.texts" :key="index">
                 <div class="mb-3 mt-5 h5">
-                  {{ text.title }}
+                  <h2>{{ text.title }}</h2>
                 </div>
-                <p class="mb-4">
-                  {{ text.text }}
-                </p>
+                <p class="mb-4" v-html="text.text"></p>
               </div>
             </div>
 
@@ -29,9 +27,10 @@
               class="btn btn-primary py-3 px-5"
               target="_blank"
               rel="nofollow noopener"
-              :href="product.shopLink"
-              >Bestellen</a
+              :href="affiliateLink"
             >
+              Bestellen
+            </a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
@@ -40,15 +39,17 @@
                 class="btn btn-primary py-3 px-5"
                 target="_blank"
                 rel="nofollow noopener"
-                :href="product.shopLink"
+                :href="affiliateLink"
                 style="display: block; width: 100%"
-                >{{ product.brand }} Online Shop</a
               >
+                {{ product.brand }} Online Shop
+              </a>
             </div>
           </div>
         </div>
       </div>
     </div>
+
     <div class="container">
       <div class="text-center fadeInUp">
         <div class="section-title bg-white text-center text-primary px-3 h6">
@@ -67,6 +68,10 @@
 import config from "~/assets/data/config.json";
 import products from "~/assets/data/products.json";
 import db from "~/utils/database.js";
+
+function customEncodeURI(str) {
+  return str.split(" ").join("+");
+}
 
 export default {
   name: "product",
@@ -116,7 +121,7 @@ export default {
     const slug = this.$route.params.slug;
     const product = db.products.getProductFromSlug(slug);
     const seoData = db.seo.getSeoForProduct(product);
-    const category = db.categories.getCategoryNameForProduct(product);
+    const category = product.categories[product.categories.length - 2];
     // const relevantProducts = db.products.getRandomProductsFromCategory(
     //   category,
     //   config.numberOfRelevantProduct
@@ -131,7 +136,41 @@ export default {
       seoData,
       category,
       relevantProducts,
+      affiliateLink: config.affiliate.defaultLink,
     };
+  },
+  methods: {
+    async fetchAffiliateLink() {
+      try {
+        const response = await fetch(
+          "http://localhost:3001/api/x/generate-link",
+          {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              domain: "example.com", // replace with your root domain
+              keyword: this.product.name,
+            }),
+          }
+        );
+
+        if (response.ok) {
+          const data = await response.json();
+          this.affiliateLink = data.affiliateLink;
+        } else {
+          console.error(
+            `Failed to generate affiliate link: ${response.status} ${response.statusText}`
+          );
+        }
+      } catch (error) {
+        console.error(`Error generating affiliate link: ${error}`);
+      }
+    },
+  },
+  created() {
+    this.fetchAffiliateLink();
   },
   jsonld() {
     return {
